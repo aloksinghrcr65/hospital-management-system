@@ -9,7 +9,6 @@ Contact alleinsa16@gmail.com for comments and questions
 ![lab2](https://github.com/piyushsinghgaur/Hospital_Management_System/assets/96806312/813f1508-7ee0-42f5-b330-10733fd5f811)
 ![man account](https://github.com/piyushsinghgaur/Hospital_Management_System/assets/96806312/d80282bd-4148-474b-bf76-ee979313c655)
 ![nur](https://github.com/piyushsinghgaur/Hospital_Management_System/assets/96806312/70646223-6f6e-4865-b046-4d61d6b35cc5)
-![nur2](https://github.com/piyushsinghgaur/Hospital_Management_System/assets/96806312/7aa718ea-51c1-417b-82e0-eb81f54e9460)
 ![reception1](https://github.com/piyushsinghgaur/Hospital_Management_System/assets/96806312/6e3ee264-4044-4878-85c8-6e4c1d083a7b)
 ![rpts](https://github.com/piyushsinghgaur/Hospital_Management_System/assets/96806312/4afb9a01-b6df-4cb6-8106-553f5b66006e)
 ![sal](https://github.com/piyushsinghgaur/Hospital_Management_System/assets/96806312/8c4635ce-1438-4f8a-848d-56701900ae7b)
