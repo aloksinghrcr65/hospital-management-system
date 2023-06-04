@@ -1,6 +1,6 @@
 # Hospital-Management-System
-This is an OOP desktop application created using Java,sql and jasper report.It is my first application after learning java
-Contact alleinsa16@gmail.com for comments and questions
+Screenshots
+@Piyush Singh Gaur
 ![admin login](https://github.com/piyushsinghgaur/Hospital_Management_System/assets/96806312/e1402f28-dadd-4957-ab64-d19443263c62)
 ![Doctor](https://github.com/piyushsinghgaur/Hospital_Management_System/assets/96806312/1ce0bb6c-8289-4b95-9870-a5a596488b5d)
 ![Doctor1](https://github.com/piyushsinghgaur/Hospital_Management_System/assets/96806312/b0ad79f8-e21a-4990-aebd-68516c0a50b8)
