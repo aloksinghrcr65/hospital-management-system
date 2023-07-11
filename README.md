@@ -2,6 +2,8 @@
 Screenshots
 @Piyush Singh Gaur
 
+
+![home](https://github.com/piyushsinghgaur/Hospital_Management_System/assets/96806312/3606d9b3-8bc2-41be-b816-7c69727f0616)
 ![adm](https://github.com/piyushsinghgaur/Hospital_Management_System/assets/96806312/38d9b37d-b5c5-4aaa-9262-b43ef29f038f)
 ![sal](https://github.com/piyushsinghgaur/Hospital_Management_System/assets/96806312/96cc63ae-cef7-43e8-a6df-a8223036a6d9)
 ![rpts](https://github.com/piyushsinghgaur/Hospital_Management_System/assets/96806312/040572f6-7a17-496c-a0fe-3719b35aeb49)
@@ -17,7 +19,6 @@ Screenshots
 ![lab](https://github.com/piyushsinghgaur/Hospital_Management_System/assets/96806312/3ebc23fe-69c7-4912-843d-25e1c08ca845)
 ![hr1](https://github.com/piyushsinghgaur/Hospital_Management_System/assets/96806312/7e9dfc05-9146-4bda-828d-f09f0b2d3237)
 ![hr](https://github.com/piyushsinghgaur/Hospital_Management_System/assets/96806312/af8c645b-bbee-467e-89ca-f5f42938fb7f)
-![home](https://github.com/piyushsinghgaur/Hospital_Management_System/assets/96806312/3606d9b3-8bc2-41be-b816-7c69727f0616)
 ![finance](https://github.com/piyushsinghgaur/Hospital_Management_System/assets/96806312/339ebaa9-ec39-4892-b21b-209ec5d164c9)
 ![fin2](https://github.com/piyushsinghgaur/Hospital_Management_System/assets/96806312/944b233e-2590-4c25-8965-015236b92507)
 ![Doctor1](https://github.com/piyushsinghgaur/Hospital_Management_System/assets/96806312/adf399c3-bcc7-4d3b-9183-46284b557ac7)
