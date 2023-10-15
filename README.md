@@ -6,10 +6,10 @@ This ia a college group project of 4 members including me.
 "You can also check my colleagues' account:"
 [Piyush Singh Gaur](https://github.com/piyushsinghgaur)
 
-##Description:
+# Description:
 Our Hospital Management System project is a collaborative effort by a group of dedicated Java developers. This comprehensive software solution is designed to streamline and enhance the operations of healthcare facilities. The system is tailored to meet the specific needs of hospitals, clinics, and medical institutions.
 
-##Key Features:
+# Key Features:
 
 1. Patient Management: Efficiently manage patient records, appointments, and medical history, ensuring a seamless patient experience.
 2. Appointment Scheduling: Simplify the appointment booking process, allowing patients to request appointments online and helping staff organize schedules.
