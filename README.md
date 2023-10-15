@@ -1,6 +1,6 @@
 # Hospital-Management-System
 Screenshots
-@Piyush Singh Gaur
+@Alok Kumar Singh
 
 
 ![home](https://github.com/piyushsinghgaur/Hospital_Management_System/assets/96806312/3606d9b3-8bc2-41be-b816-7c69727f0616)
